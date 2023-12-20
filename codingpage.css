@@ -1,0 +1,137 @@
+		
+		@font-face {
+			font-family: 'SOYOMapleBoldTTF';
+			src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/SOYOMapleBoldTTF.woff2') format('woff2');
+			font-weight: 400;
+			font-style: normal;
+		}	
+		html, body{
+		height:140%;
+		margin:0;
+		padding:0;
+		}
+		.now{
+			font-size:110%;	
+			margin-left:15%; 
+			margin-right:15%;
+			color:black;
+			border-bottom: 1px solid black;
+			font-family: 'SOYOMapleBoldTTF';
+		}	
+		.main{
+			font-size:110%;
+			margin-left:5%; 
+			margin-right:15%;
+			color:black;
+			font-family: 'SOYOMapleBoldTTF';
+		}
+		a{
+			font-size:110%;
+			color:black;
+			text-decoration-line:none;
+		}
+		/*block level tag*/
+		h1{
+			font-size:250%;
+			text-align:left;
+			margin-top:2%;
+			margin-left: 2%;
+			font-family: 'SOYOMapleBoldTTF';
+			font-weight: 900;
+			
+			/*padding:20px;*/
+		}
+		/*inline tag*/
+		h2{
+			margin: 10%;
+			font-size:200%;
+			margin-top: 6.6%;
+			margin-bottom: 0;
+		}
+		/*클래스.link*/
+		.link{
+			color:blue;
+		}
+		body
+		{
+			font-family : 'gothic'
+		}	
+		hr{
+			background-color:rgba(26,43,202);
+			height:1px;
+			width:140%;
+			margin: 0.005%;
+		}
+		header{
+			width:100%;
+			height:6.5%;
+			float:left;
+			background-color:white;
+			}
+
+		nav{
+			float: left;
+			width: 85%;
+			height: 28px;
+		}
+		section{
+		width:85%;
+		height:88.8%;
+		float:left;
+		background-color: rgb(240, 240, 240);
+		}
+
+		article{
+			margin: 10%;
+			margin-top: 0;
+			margin-bottom: o;
+			width: 80%;
+			height: 400px;
+			background-color: white;
+			border-radius: 10px;
+			border:1px solid rgb(226, 226, 226);;
+		}
+		
+		div{
+			margin: 3%;
+			font-size: 150%;
+		}
+		h3{
+			font-family: 'SOYOMapleBoldTTF';
+		}
+
+		h4{
+			margin-bottom: 0;
+		}
+
+		aside{
+		width:15%;
+		height:88.8%;
+		float:right;
+		text-align:center;
+		background-color:rgb(26, 43, 202);
+		color:white
+		}
+
+		#box{
+			height: 6%;
+		}
+
+		.AsiInf{
+			color: white;
+			font-size: 100%;
+			font-family: 'SOYOMapleBoldTTF';
+		}
+
+		footer{
+		background-color:rgb(237, 240, 243);
+		clear:both;
+		width:100%;
+		height:8%;
+		text-align:center;
+		font-size:80%;
+		border-top:0.5px solid rgb(180, 180, 180);
+		}
+		.inf{
+		color:black;	
+		}
